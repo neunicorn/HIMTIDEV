@@ -1,0 +1,25 @@
+{
+  "name": "expressv2",
+  "version": "1.0.0",
+  "description": "belajar express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo/hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neunicorn/HIMTIDEV.git"
+  },
+  "keywords": [
+    "belajar"
+  ],
+  "author": "zulfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neunicorn/HIMTIDEV/issues"
+  },
+  "homepage": "https://github.com/neunicorn/HIMTIDEV#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
